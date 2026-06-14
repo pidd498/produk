@@ -21,7 +21,7 @@ const IMAGES: FantaItem[] = [
     tagline: 'Bright citrus taste with a sweet, tangy finish.',
   },
   {
-    src: 'https://raw.githubusercontent.com/pidd498/produk/main/download__4_-removebg-preview.png',
+    src: 'https://raw.githubusercontent.com/pidd498/produk/main/download__5_-removebg-preview.png',
     bg: '#C2185B',
     panel: '#E91E8C',
     name: 'FANTA WILD CHERRY',
@@ -29,7 +29,7 @@ const IMAGES: FantaItem[] = [
     tagline: 'Sweet cherry-forward with a slightly tart finish.',
   },
   {
-    src: 'https://raw.githubusercontent.com/pidd498/produk/main/download__5_-removebg-preview.png',
+    src: 'https://raw.githubusercontent.com/pidd498/produk/main/download__4_-removebg-preview.png',
     bg: '#D32F2F',
     panel: '#EF5350',
     name: 'FANTA STRAWBERRY',
