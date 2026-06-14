@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fantaverse",
+  "description": "An interactive React hero section showcasing Fanta flavors with dynamic background transitions, bold typography, and smooth carousel animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

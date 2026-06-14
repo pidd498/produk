@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Anton', sans-serif;
+}
+
+/* Custom keyframe animations for premium micro-interactions and transitions */
+@keyframes bounce-subtle {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.animate-can-bounce {
+  animation: bounce-subtle 0.3s ease-in-out;
+}
+
